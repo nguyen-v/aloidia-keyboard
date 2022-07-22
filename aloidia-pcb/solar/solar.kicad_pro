@@ -405,7 +405,7 @@
       "idf": "",
       "netlist": "solar.net",
       "specctra_dsn": "",
-      "step": "",
+      "step": "solar.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
