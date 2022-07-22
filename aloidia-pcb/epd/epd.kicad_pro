@@ -354,7 +354,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "epd-rounded.kicad_pro",
+    "filename": "epd.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -388,7 +388,7 @@
       "idf": "",
       "netlist": "epd.net",
       "specctra_dsn": "",
-      "step": "",
+      "step": "epd.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
