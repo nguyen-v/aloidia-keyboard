@@ -486,7 +486,7 @@
       "idf": "",
       "netlist": "aloidia-right.net",
       "specctra_dsn": "",
-      "step": "",
+      "step": "aloidia-right.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
