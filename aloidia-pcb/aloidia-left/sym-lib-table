@@ -7,4 +7,5 @@
   (lib (name "0_switch_button")(type "KiCad")(uri "C:/Users/Vincent/Documents/Projects/keyboards/aloidia/aloidia-pcb/lib/aloidia-lib/0_switch_button.kicad_sym")(options "")(descr ""))
   (lib (name "marbastlib-various")(type "KiCad")(uri "C:/Users/Vincent/Documents/Projects/keyboards/aloidia/aloidia-pcb/lib/marbastlib/marbastlib-various.kicad_sym")(options "")(descr ""))
   (lib (name "marbastlib-mx")(type "KiCad")(uri "C:/Users/Vincent/Documents/Projects/keyboards/aloidia/aloidia-pcb/lib/marbastlib/marbastlib-mx.kicad_sym")(options "")(descr ""))
+  (lib (name "logo")(type "KiCad")(uri "C:/Users/Vincent/Documents/Projects/keyboards/aloidia/aloidia-pcb/lib/aloidia-lib/logo.kicad_sym")(options "")(descr ""))
 )
